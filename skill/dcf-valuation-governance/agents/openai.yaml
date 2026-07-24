@@ -1,0 +1,4 @@
+interface:
+  display_name: "Governed DCF Valuation"
+  short_description: "Build, audit, and challenge DCF valuations with explicit gates"
+  default_prompt: "Use $dcf-valuation-governance to build and audit a three-scenario DCF valuation from a synthetic or user-provided case."

@@ -1,0 +1,16 @@
+__pycache__/
+*.py[cod]
+.DS_Store
+.venv/
+dist/
+outputs/
+runlogs/
+cases/
+sources/
+reference_models/
+*.xlsx
+*.xlsm
+*.xls
+*.pdf
+*.env
+.env*
