@@ -1,11 +1,20 @@
 ---
 name: dcf-valuation-governance
-description: Build, audit, challenge, and explain governed intrinsic-value models. Use for three-scenario FCFF DCFs, WACC and terminal-value review, reverse DCF, valuation-method routing, equity bridges, sensitivity analysis, assumption dossiers, workbook contracts, and fail-closed valuation quality gates. Do not use it to produce a buy/sell recommendation from incomplete evidence.
+description: "以可审计、可复算、失败关闭的方式构建和审查内在价值模型。Use for three-scenario FCFF DCFs, valuation-method routing, WACC and terminal-value review, reverse DCF, equity bridges, sensitivity analysis, assumption dossiers, workbook contracts, and valuation quality gates; never turn incomplete evidence into a buy/sell recommendation."
 ---
 
 # Governed DCF Valuation
 
 Treat valuation as an auditable research system, not a one-cell formula.
+
+## 中文介绍
+
+这个 Skill 的目标不是快速给出一个“目标价”，而是把估值变成一套任何关键数字都能追溯、复算、质疑和更新的研究系统。
+
+- **适合谁**：需要搭建或审计 DCF、复核卖方估值、解释市场隐含预期，或建立标准化估值工作簿的研究者。
+- **解决什么**：避免自由现金流凭空输入、WACC 与永续增长率失真、终值占比过高、股权桥遗漏和公式错误。
+- **标准产出**：方法路由、三情景预测、假设档案、FCFF 估值桥、敏感性矩阵、反向 DCF、独立重算和质量门状态。
+- **核心价值**：结果必须落在 `PASS / DRAFT_REVIEW / BLOCKED` 之一；缺失数据保持缺失，不用零值或乐观假设掩盖问题。
 
 ## Non-negotiable output state
 
